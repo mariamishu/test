@@ -1,3 +1,3 @@
 # test
 
-First readme file
+print('hello world')
